@@ -1,0 +1,1 @@
+extern bool RFID_MODE;
