@@ -1,5 +1,4 @@
 #include "keypadHeader.h"
-#include "mode.h"
 
 // Global Variabel    
 char keymap[keypadRows][keypadCols] = 
