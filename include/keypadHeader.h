@@ -4,6 +4,7 @@
 #include <Keypad.h>
 
 #include "liquidCryHeader.h"
+#include "mode.h"
 
 static const byte keypadRows = 4;
 static const byte keypadCols = 4;
